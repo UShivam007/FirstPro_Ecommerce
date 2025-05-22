@@ -1,6 +1,7 @@
 # React + Vite
-git config --global user.email"****@gmail.com"
-git config --global user.name"Shivam"
+# Command To Upload Projects on Git 
+-`git config --global user.email"****@gmail.com"`<br>
+-`git config --global user.name"Shivam"` <br>
 git init
 git add -A
 git commit -a -m "Message"
